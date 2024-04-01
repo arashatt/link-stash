@@ -14,5 +14,8 @@ This is going to be a very chaoric repository, since its layout is not very clea
  [docker compose]( https://docs.docker.com/compose/)<br />
 ## etc.
 
-https://simplify.jobs/blog/how-to-get-a-job-at-a-startup/
-https://twobithistory.org/2020/06/28/rest.html
+https://simplify.jobs/blog/how-to-get-a-job-at-a-startup/<br />
+https://twobithistory.org/2020/06/28/rest.html<br />
+
+ByteByteGo is insane<br />
+https://blog.bytebytego.com/p/ep47-common-load-balancing-algorithms<br />
