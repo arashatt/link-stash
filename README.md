@@ -19,3 +19,17 @@ https://twobithistory.org/2020/06/28/rest.html<br />
 
 ByteByteGo is insane<br />
 https://blog.bytebytego.com/p/ep47-common-load-balancing-algorithms<br />
+
+```python
+//https://docs.pydantic.dev/latest/
+from datetime import datetime
+from pydantic import BaseModel
+
+class Delivery(BaseModel):
+ timestamp: datetime
+print(repr(m.timestamp))
+```
+I ain't going to learn anything from [javascript info](https://javascript.info/date). it's pure language material. this one is better[Node.js Design Patterns](https://www.amazon.com/Node-js-Design-Patterns-techniques-applications/dp/1783287314). By the way it was suggested to me by ChatGPT.<br/>
+
+websocket is cool.<br>
+![image](https://github.com/arashatt/link-stash/assets/55944526/645a3786-3a39-4105-8b05-ac88df4e2d4d)
