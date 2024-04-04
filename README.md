@@ -21,7 +21,7 @@ ByteByteGo is insane<br />
 https://blog.bytebytego.com/p/ep47-common-load-balancing-algorithms<br />
 
 ```python
-//https://docs.pydantic.dev/latest/
+# https://docs.pydantic.dev/latest/
 from datetime import datetime
 from pydantic import BaseModel
 
