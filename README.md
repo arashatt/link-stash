@@ -30,9 +30,15 @@ class Delivery(BaseModel):
 print(repr(m.timestamp))
 ```
 I ain't going to learn anything from [javascript info](https://javascript.info/date). it's pure language material. this one is better[Node.js Design Patterns](https://www.amazon.com/Node-js-Design-Patterns-techniques-applications/dp/1783287314). By the way it was suggested to me by ChatGPT.<br/>
-
 websocket is cool.<br>
 ![image](https://github.com/arashatt/link-stash/assets/55944526/645a3786-3a39-4105-8b05-ac88df4e2d4d)<br>
 https://blog.miguelgrinberg.com/post/ignore-all-web-performance-benchmarks-including-this-one<br>
 https://httpd.apache.org/docs/2.4/programs/ab.html<br>
 https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html <br>
+<br/>
+**اینک آخرالرزمان**
+
+
+https://www.sparknotes.com/film/apocalypsenow/
+<br/>
+https://www.theguardian.com/film/2019/aug/07/apocalypse-now-final-cut-review-francis-ford-coppola-dennis-hopper
