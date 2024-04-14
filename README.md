@@ -42,3 +42,6 @@ https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html <br>
 https://www.sparknotes.com/film/apocalypsenow/
 <br/>
 https://www.theguardian.com/film/2019/aug/07/apocalypse-now-final-cut-review-francis-ford-coppola-dennis-hopper
+<br/>
+today I read about **type** and type \<program\> is hashed. hash -r. 
+grep -A -B
