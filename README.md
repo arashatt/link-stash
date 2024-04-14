@@ -45,3 +45,9 @@ https://www.theguardian.com/film/2019/aug/07/apocalypse-now-final-cut-review-fra
 <br/>
 today I read about **type** and type \<program\> is hashed. hash -r. 
 grep -A -B
+<br/>
+https://gcc.gnu.org/onlinedocs/gcc/Option-Summary.html
+<br/>
+./solana-install-init-x86_64-unknown-linux-gnu v1.17.28
+<br/>
+
