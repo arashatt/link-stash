@@ -53,3 +53,5 @@ https://gcc.gnu.org/onlinedocs/gcc/Option-Summary.html
 https://ccrma.stanford.edu/~jos/stkintro/Useful_commands_gdb.html
 <br/>
 baysian reasoning.
+<br/>
+https://www.netmeister.org/blog/learning-programming-languages-for-fun-and-profit.html
