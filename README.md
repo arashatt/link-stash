@@ -52,4 +52,4 @@ https://gcc.gnu.org/onlinedocs/gcc/Option-Summary.html
 <br/>
 https://ccrma.stanford.edu/~jos/stkintro/Useful_commands_gdb.html
 <br/>
-
+baysian reasoning.
