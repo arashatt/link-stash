@@ -50,4 +50,6 @@ https://gcc.gnu.org/onlinedocs/gcc/Option-Summary.html
 <br/>
 ./solana-install-init-x86_64-unknown-linux-gnu v1.17.28
 <br/>
+https://ccrma.stanford.edu/~jos/stkintro/Useful_commands_gdb.html
+<br/>
 
