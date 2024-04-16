@@ -55,3 +55,8 @@ https://ccrma.stanford.edu/~jos/stkintro/Useful_commands_gdb.html
 baysian reasoning.
 <br/>
 https://www.netmeister.org/blog/learning-programming-languages-for-fun-and-profit.html
+<br/>
+do not depend your self-love on anything external:
+<br/>
+[very well mind article](https://www.verywellmind.com/ways-to-practice-self-love-5667417)
+<br/>
