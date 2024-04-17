@@ -66,3 +66,21 @@ do not depend your self-love on anything external:
 Divinity is the source of my inspiration. I am absorbed by the apprehension of gods, of magnunimus structure of the world.
 I am not welcomed in this world.
 bullshit
+<br/>
+require once is a solution to problem which exists in c language. You may include a header file which was already included in your code and this duplication causes error.
+I've already lost my prismal mood. Problem solving math literature. 
+I used to read about the Knights of faith and Knights of resignation. Socrates refuted almost every statement by his inoculators.
+Don't pray into the soul of other people.
+I had two weeks of learning french.
+one week of reading morality a very short introduction. months of watching chess. and at last few weeks of HackerRank problem solving. 
+What problems exist. you'll be introduced to a whole new class of problems which can be solved my instructing a machine to receive inputs and compute the output.
+
+---------
+
+https://matomo.org/guide/tracking-data/
+
+---------
+
+You know what, I also tried to commit myself to those aforementions trancendetal goals.
+
+
