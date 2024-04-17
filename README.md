@@ -63,3 +63,6 @@ do not depend your self-love on anything external:
 <br/>
 [very well mind article](https://www.verywellmind.com/ways-to-practice-self-love-5667417)
 <br/>
+Divinity is the source of my inspiration. I am absorbed by the apprehension of gods, of magnunimus structure of the world.
+I am not welcomed in this world.
+bullshit
