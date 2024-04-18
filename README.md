@@ -90,3 +90,6 @@ Do you think I still have to believe in delayed gratification? It's a lie, DO wh
 13. Nothing, says the poet, is more miserable than to range over all things, to spy into the depths of the earth, and search, by conjecture, into the souls of those around us, yet not to perceive that it is enough for a man to devote himself to that divinity which is within him, and to pay it genuine
 <br/>
 IV. Spend not the remnant of thy days in thoughts and fancies concerning other men, when it is not in relation to some common good, when by it thou art hindered from some other better work. That is, spend not thy time in thinking, what such a man doth, and to what end: what he saith, and what he thinks, and what he is about, and such other things or curiosities, which make a man to rove and wander from the care and observation of that part of himself,
+<br/>
+How to resolve software glitches in your code.
+ماموریت زمینی
