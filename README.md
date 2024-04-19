@@ -81,8 +81,8 @@ https://matomo.org/guide/tracking-data/
 
 ---------
 
-You know what, I also tried to commit myself to those aforementions trancendetal goals. contemplation on divinity.
-How to be more  articulate? How can I fully express myself? I am full of doubt.
+You know what, I also tried to commit myself to those aforementioned trancendetal goals. contemplation on divinity.
+How to be more articulate? How can I fully express myself? I am full of doubt.
 
 Do you think I still have to believe in delayed gratification? It's a lie, DO what every you want to do in your life now.
 
