@@ -61,6 +61,7 @@ https://www.netmeister.org/blog/learning-programming-languages-for-fun-and-profi
 <br/>
 do not depend your self-love on anything external:
 <br/>
+###### selflove
 [very well mind article](https://www.verywellmind.com/ways-to-practice-self-love-5667417)
 <br/>
 Divinity is the source of my inspiration. I am absorbed by the apprehension of gods, of magnunimus structure of the world.
@@ -76,7 +77,6 @@ one week of reading morality a very short introduction. months of watching chess
 What problems exist. you'll be introduced to a whole new class of problems which can be solved my instructing a machine to receive inputs and compute the output.
 
 ---------
-
 https://matomo.org/guide/tracking-data/
 
 ---------
@@ -92,4 +92,7 @@ Do you think I still have to believe in delayed gratification? It's a lie, DO wh
 IV. Spend not the remnant of thy days in thoughts and fancies concerning other men, when it is not in relation to some common good, when by it thou art hindered from some other better work. That is, spend not thy time in thinking, what such a man doth, and to what end: what he saith, and what he thinks, and what he is about, and such other things or curiosities, which make a man to rove and wander from the care and observation of that part of himself,
 <br/>
 How to resolve software glitches in your code.
-ماموریت زمینی
+<br/>
+
+###### my mind is a computer
+https://www.scotthyoung.com/blog/2023/07/25/the-mind-is-a-computer/
