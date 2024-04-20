@@ -100,3 +100,5 @@ https://www.scotthyoung.com/blog/2023/07/25/the-mind-is-a-computer/
 ###### Goals
 I need to do more engaging projects to contribute to, like the latest one I did with puppeteer. In this weekend I spend time writing a new low level program in c you can find in [here](https://github.com/arashatt/cat).
 I created a solana account, I reviewed bitcoin mechanism, particularly the way it handles double spending and what happens when someone forgets his private key.
+
+https://github.com/berkeakil/CTF-Writeups/blob/master/2018/RITSEC-18/Forensics/Burn%20the%20Candle%20on%20Both%20Ends/README.MD
