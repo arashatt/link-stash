@@ -98,5 +98,5 @@ How to resolve software glitches in your code.
 ###### my mind is a computer
 https://www.scotthyoung.com/blog/2023/07/25/the-mind-is-a-computer/
 ###### Goals
-I need to do more engaging projects like the latest one I did with puppeteer. In this weekend I spend time writing a new low level program in c you can find in [here](https://github.com/arashatt/cat).
+I need to do more engaging projects to contribute to, like the latest one I did with puppeteer. In this weekend I spend time writing a new low level program in c you can find in [here](https://github.com/arashatt/cat).
 I created a solana account, I reviewed bitcoin mechanism, particularly the way it handles double spending and what happens when someone forgets his private key.
