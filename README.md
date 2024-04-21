@@ -104,3 +104,5 @@ I created a solana account, I reviewed bitcoin mechanism, particularly the way i
 https://github.com/berkeakil/CTF-Writeups/blob/master/2018/RITSEC-18/Forensics/Burn%20the%20Candle%20on%20Both%20Ends/README.MD
 ###### let's get back to distributed systems.
 https://disco.ethz.ch/courses/ss04/distcomp/lecture/chapter8.pdf
+<br/>
+https://bias2build.com/broadcast/
