@@ -102,3 +102,5 @@ I need to do more engaging projects to contribute to, like the latest one I did 
 I created a solana account, I reviewed bitcoin mechanism, particularly the way it handles double spending and what happens when someone forgets his private key.
 
 https://github.com/berkeakil/CTF-Writeups/blob/master/2018/RITSEC-18/Forensics/Burn%20the%20Candle%20on%20Both%20Ends/README.MD
+###### let's get back to distributed systems.
+https://disco.ethz.ch/courses/ss04/distcomp/lecture/chapter8.pdf
