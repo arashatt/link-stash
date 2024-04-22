@@ -93,7 +93,10 @@ IV. Spend not the remnant of thy days in thoughts and fancies concerning other m
 <br/>
 How to resolve software glitches in your code.
 <br/>
-
+###### angst
+I put this out of its chronological order, Please don't blame me, pawn intended.
+<br/>
+https://hume.ucdavis.edu/phi151/Kierkegaard_Angst.html
 
 ###### my mind is a computer
 https://www.scotthyoung.com/blog/2023/07/25/the-mind-is-a-computer/
