@@ -121,3 +121,4 @@ I have this constant urge to
 ####### I won't digress seriously, but this blog is pretty cool
 https://www.forbes.com/advisor/business/best-side-hustle-ideas/
 <br/>
+https://ui.dev/rwd/articles/allow-file-directory-listing-using-htaccess
