@@ -114,6 +114,10 @@ https://github.com/berkeakil/CTF-Writeups/blob/master/2018/RITSEC-18/Forensics/B
 https://disco.ethz.ch/courses/ss04/distcomp/lecture/chapter8.pdf
 <br/>
 https://bias2build.com/broadcast/
+
+####
+you'll definitely sink, if you want to help those who are already sinking.
+
 ####### I won't digress seriously, but this blog is pretty cool
 https://www.forbes.com/advisor/business/best-side-hustle-ideas/
 <br/>
