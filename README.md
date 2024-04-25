@@ -117,7 +117,7 @@ https://bias2build.com/broadcast/
 
 ####
 you'll definitely sink, if you want to help those who are already sinking.
-
+I have this constant urge to 
 ####### I won't digress seriously, but this blog is pretty cool
 https://www.forbes.com/advisor/business/best-side-hustle-ideas/
 <br/>
