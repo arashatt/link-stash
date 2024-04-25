@@ -124,3 +124,7 @@ https://www.forbes.com/advisor/business/best-side-hustle-ideas/
 https://ui.dev/rwd/articles/allow-file-directory-listing-using-htaccess
 <br/>
 https://www.maizure.org/projects/decoded-gnu-coreutils/
+![GNU](https://github.com/arashatt/link-stash/assets/55944526/102786ec-b3a3-452f-8a4a-cc24faa5ff80)
+<br/>
+https://www.maizure.org/projects/decoded-gnu-coreutils/
+
