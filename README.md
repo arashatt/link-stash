@@ -129,3 +129,5 @@ https://www.maizure.org/projects/decoded-gnu-coreutils/
 https://www.maizure.org/projects/decoded-gnu-coreutils/
 <br/>
 https://dcl.epfl.ch/site/_media/education/da18-totalorderbroadcast.pdf
+<br/>
+https://dcl.epfl.ch/site/education/da_2023
