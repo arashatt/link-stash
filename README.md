@@ -127,4 +127,5 @@ https://www.maizure.org/projects/decoded-gnu-coreutils/
 ![GNU](https://github.com/arashatt/link-stash/assets/55944526/102786ec-b3a3-452f-8a4a-cc24faa5ff80)
 <br/>
 https://www.maizure.org/projects/decoded-gnu-coreutils/
-
+<br/>
+https://dcl.epfl.ch/site/_media/education/da18-totalorderbroadcast.pdf
