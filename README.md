@@ -134,7 +134,7 @@ https://dcl.epfl.ch/site/education/da_2023
 
 <br/>
 This is not the first time I am encountering this problem.
-We have conflicting goals, wheather to satisfy personal pursuits or to oblige oneself to someone else's goals.
+We have conflicting goals. It's a riddle for me whether to go after personal pursuits or to oblige oneself to someone else's goals.
 Soren Kierkegaard elaborates on that and says we should be able to suspend our moral/ethical duties in order to acheive higher goals.
 <br/>
 پشمام: https://tusharf5.com/posts/ip-sockets-unix-nodejs-1/
