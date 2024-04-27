@@ -1,0 +1,7 @@
+every programming language has one way or another for dealing with I/O operations.
+In rust web have network implementations for network in std::net, another variants of these implementations exists for example to enable asynchronous.
+
+TcpStream:
+  opens a stream to a remote address. 
+  connect():
+    connect to remote server. Do read write operations (You should import std::io::Read and std::io::Write).it accepts an iterator over a list of SocketAddrs.
