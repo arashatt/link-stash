@@ -133,6 +133,6 @@ https://dcl.epfl.ch/site/_media/education/da18-totalorderbroadcast.pdf
 https://dcl.epfl.ch/site/education/da_2023
 
 <br/>
-This is not the first time I am encountering with this problem.
-We have conflicting goals, wheather to satisfy personal pursuits or to oblige yourself to someone else's goals.
+This is not the first time I am encountering this problem.
+We have conflicting goals, wheather to satisfy personal pursuits or to oblige oneself to someone else's goals.
 Soren Kierkegaard elaborates on that and says we should be able to suspend our moral/ethical duties in order to acheive somehting bigger.
