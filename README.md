@@ -138,3 +138,5 @@ We have conflicting goals, wheather to satisfy personal pursuits or to oblige on
 Soren Kierkegaard elaborates on that and says we should be able to suspend our moral/ethical duties in order to acheive higher goals.
 <br/>
 پشمام: https://tusharf5.com/posts/ip-sockets-unix-nodejs-1/
+<br/>
+https://zookeeper.apache.org/
