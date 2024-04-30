@@ -139,5 +139,10 @@ Soren Kierkegaard elaborates on that and says we should be able to suspend our m
 <br/>
 پشمام: https://tusharf5.com/posts/ip-sockets-unix-nodejs-1/
 <br/>
+
 https://zookeeper.apache.org/
 l2tp
+https://www.cyberciti.biz/faq/disable-bash-shell-history-linux
+
+
+
