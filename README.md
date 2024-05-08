@@ -152,3 +152,4 @@ https://lamport.azurewebsites.net/pubs/time-clocks.pdf
 https://www.youtube.com/watch?v=SZMk3wf-MBA
 
 Richard Dawkins - The blind watchmaker-Penguin (2006).pdf
+https://library.lol/main/F285AF6D368FD8BA68FAFFD8DAF92C2B
