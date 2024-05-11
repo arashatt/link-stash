@@ -155,3 +155,4 @@ Richard Dawkins - The blind watchmaker-Penguin (2006).pdf
 https://library.lol/main/F285AF6D368FD8BA68FAFFD8DAF92C2B
 ![image](https://rust-classes.com/img/ferris_organizing.webp)
 https://rust-classes.com/chapter_4_3
+Distributed Shared Memory Consistency Models
