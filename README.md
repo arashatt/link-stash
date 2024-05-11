@@ -150,9 +150,18 @@ https://lamport.azurewebsites.net/pubs/time-clocks.pdf
 
 ![Screenshot_110](https://github.com/arashatt/link-stash/assets/55944526/b71b9be9-8662-4663-afd8-e5ac9d3b6e89)
 https://www.youtube.com/watch?v=SZMk3wf-MBA
+https://marabos.nl/atomics/
+
 
 Richard Dawkins - The blind watchmaker-Penguin (2006).pdf
 https://library.lol/main/F285AF6D368FD8BA68FAFFD8DAF92C2B
 ![image](https://rust-classes.com/img/ferris_organizing.webp)
 https://rust-classes.com/chapter_4_3
 Distributed Shared Memory Consistency Models
+
+###### vim
+read-only-vim:<br/>
+https://www.cyberciti.biz/faq/howto-open-file-tab-in-vim-in-readonly-on-linuxunix/
+
+reverse search:<br/>
+https://www.cyberciti.biz/faq/find-a-word-in-vim-or-vi-text-editor/
