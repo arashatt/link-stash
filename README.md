@@ -166,3 +166,5 @@ https://www.cyberciti.biz/faq/howto-open-file-tab-in-vim-in-readonly-on-linuxuni
 reverse search:<br/>
 https://www.cyberciti.biz/faq/find-a-word-in-vim-or-vi-text-editor/
 https://www.youtube.com/watch?v=CpdUAwc1xIs
+
+https://www.youtube.com/watch?v=CpdUAwc1xIs
