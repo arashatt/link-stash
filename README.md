@@ -171,3 +171,5 @@ https://www.youtube.com/watch?v=CpdUAwc1xIs
 
 
 https://www.codeproject.com/Articles/1271904/Programming-Concurrency-in-Cplusplus-Part-1
+
+https://stackoverflow.com/questions/319925/difference-between-hard-wrap-and-soft-wrap
