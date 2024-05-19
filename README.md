@@ -168,3 +168,4 @@ https://www.cyberciti.biz/faq/find-a-word-in-vim-or-vi-text-editor/
 https://www.youtube.com/watch?v=CpdUAwc1xIs
 
 https://www.youtube.com/watch?v=CpdUAwc1xIs
+https://www.codeproject.com/Articles/1271904/Programming-Concurrency-in-Cplusplus-Part-1
