@@ -181,3 +181,6 @@ https://medium.com/clarityai-engineering/5-books-i-recommend-to-help-build-a-hea
 https://www.proxmox.com/en/
 
 https://irix7.com/techpubs/860-0239-001.pdf
+
+###### انتقاد به امر به معروف 
+https://ganjoor.net/saadi/boostan/bab7/sh9
