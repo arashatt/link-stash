@@ -184,3 +184,5 @@ https://irix7.com/techpubs/860-0239-001.pdf
 
 ###### انتقاد به امر به معروف 
 https://ganjoor.net/saadi/boostan/bab7/sh9
+
+https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/
