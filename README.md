@@ -188,3 +188,4 @@ https://ganjoor.net/saadi/boostan/bab7/sh9
 https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/
 
 https://www.ssh.com/academy/ssh/tunneling
+https://www.linode.com/community/questions/7381/openvpn-client-connected-to-a-server-while-listening-to-ssh
