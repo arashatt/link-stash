@@ -5,3 +5,5 @@ TcpStream:
   opens a stream to a remote address. 
   connect():
     connect to remote server. Do read write operations (You should import std::io::Read and std::io::Write).it accepts an iterator over a list of SocketAddrs.
+
+https://blog.ssanj.net/posts/2023-09-24-how-to-see-stdout-when-running-tests-in-rust.html
