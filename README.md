@@ -192,4 +192,5 @@ https://www.linode.com/community/questions/7381/openvpn-client-connected-to-a-se
 
 https://abseil.io/blog/20180927-swisstables
 https://corrode.dev/
+https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/
 
