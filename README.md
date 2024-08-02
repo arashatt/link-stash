@@ -195,3 +195,4 @@ https://corrode.dev/
 https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/
 https://rustc-dev-guide.rust-lang.org/contributing.html#issue-triage
 https://github.com/RocketChat/Rocket.Chat
+https://www.cs.cornell.edu/courses/cs4414/2023sp/
