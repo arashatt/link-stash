@@ -204,3 +204,7 @@ https://github.com/RocketChat/Rocket.Chat
 https://www.cs.cornell.edu/courses/cs4414/2023sp/
 
 https://www.youtube.com/watch?v=AiEsYzTDB5c
+
+https://httpie.io/
+
+https://fastapi.tiangolo.com/tutorial/
