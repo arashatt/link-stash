@@ -208,3 +208,7 @@ https://www.youtube.com/watch?v=AiEsYzTDB5c
 https://httpie.io/
 
 https://fastapi.tiangolo.com/tutorial/
+
+named pipes in linux
+
+
