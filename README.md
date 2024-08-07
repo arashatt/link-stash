@@ -211,4 +211,4 @@ https://fastapi.tiangolo.com/tutorial/
 
 named pipes in linux
 
-
+kernel patching -- good way to learn git
