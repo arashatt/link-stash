@@ -205,6 +205,9 @@ https://www.cs.cornell.edu/courses/cs4414/2023sp/
 
 https://www.youtube.com/watch?v=AiEsYzTDB5c
 
+
+remove the history of all commits in a git repository:
+[link](https://stackoverflow.com/questions/13716658/how-to-delete-all-commit-history-in-github)
 https://httpie.io/
 
 https://fastapi.tiangolo.com/tutorial/
